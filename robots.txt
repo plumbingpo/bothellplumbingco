@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bothellplumbingco.com/sitemap.xml
